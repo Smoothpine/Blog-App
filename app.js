@@ -1,4 +1,4 @@
-var express = require("express"),
+let express = require("express"),
     bodyParser = require("body-parser"),
     methodOverride = require("method-override"),
     expressSanitizer = require("express-sanitizer"),
